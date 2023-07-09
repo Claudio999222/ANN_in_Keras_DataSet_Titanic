@@ -1,4 +1,4 @@
-## In questo DataSet andro ad utilizzare le RNN sul DataSet Titanic
+## In questo DataSet andro ad utilizzare le ANN sul DataSet Titanic
 * Prelavorazione sul DataSet
 * Normalizzazione 
 * Creazione del modello 
